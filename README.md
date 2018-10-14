@@ -1,4 +1,4 @@
-#### Spring_Rest_JPA_MySQL
+# Spring_Rest_JPA_MySQL
 
 ### 1.You can clone it from github by running following command
 ```
