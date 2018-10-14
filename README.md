@@ -1,9 +1,9 @@
 #### Spring_Rest_JPA_MySQL
 
 ### 1.You can clone it from github by running following command
-´´´
+```
  $ git clone https://github.com/niteshsinghrajput/CRUD-Spring-Boot-JPA-MySQL.git
-´´´
+ ```
  ### 2.Import project into eclipse
  ´´´
  File -> Import -> Maven -> Existing Maven Projects -> Browse Project from cloned location
